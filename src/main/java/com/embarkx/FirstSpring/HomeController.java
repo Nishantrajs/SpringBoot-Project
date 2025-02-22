@@ -1,2 +1,5 @@
-package com.embarkx.FirstSpring;public class HomeController {
+package com.embarkx.FirstSpring;
+
+public class HomeController {
+    
 }
